@@ -14,7 +14,7 @@
 - Grader: TBD
 
 ## Communication
-- We use both [canvas](canvas.asu.edu) and [course website](https://github.com/bmoraffa/EEE-CSE-120-Fall2020) for announcement and notes. All students must regularly check these websites for update. 
+- We use both [canvas](https://canvas.asu.edu) and [course website](https://github.com/bmoraffa/EEE-CSE-120-Fall2020) for announcement and notes. All students must regularly check these websites for update. 
 - If there is a question as to lectures that you need to ask the professor, contact him directly through his email. The subject of the email must be as follows: **EEE/CSE 120: T TH (time of your class)**. If you use differnet title your email will go to spam. 
 
 ## Texts
@@ -89,7 +89,7 @@ The scribe notes should be written in prose English, as if in a textbook, so tha
 Assignments should be submitted in class on due date before the lecture starts. No late assignment will NOT be accepted unless it was permitted by the instructor. 
 |   | Due Date | Solution| 
 |:----:|:---------:|:---------:|
-|[Problem Set 1](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
+|[Problem Set 1](https://canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
 |[Problem Set 2](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
 |[Problem Set 3](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
 |[Problem Set 4](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
