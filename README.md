@@ -46,6 +46,8 @@ At the completion of this course, students will be able to:
 - For the letter grade check [syllabus](bmoraffa.github.io).
 - I will not curve, but I will provide a lot of opportunities to earn extra credit. 
 - **Extra Points**: I need volunteers to take notes each class, type it up and send it to me so it can be uploaded for the entire class. Each student can scribe at most 2 lectures.
+- Incorrect Work & Correct Answer - NO CREDIT.
+- No Work & Correct Answer - NO CREDIT.
 
 ## Course Schedule (subject to change)
 
