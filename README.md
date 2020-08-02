@@ -51,7 +51,7 @@ At the completion of this course, students will be able to:
 
 |   | Topics  | Lecture Notes | Reading| Additional Note|
 |:----:|:---------:|:---------:|:---------:|:----:|
-| Thu, Aug 20 | Syllabus, Introduction to EEE 120 & Electrical Fundamentals  | [Lecture note 1](https://www.google.com "Google's Homepage")  |  Class Notes  | 
+| Thu, Aug 20 | Syllabus, Introduction to EEE 120 & Electrical Fundamentals  | [Lecture note 1](https://canvas.asu.edu)  |  Class Notes  | 
 | Tue, Aug 25 | Content Cell  |   |    |
 | Thu, Aug 27 | Content Cell  |  |   |
 | Tue, Sep 1 | Content Cell  |   |   |
