@@ -1,7 +1,7 @@
 # EEE/CSE 120:  Digital Design Fundamentals
 
 ## General Information: 
-- Instructor: Professor [Bahman Moraffah](https://bmoraffa.github.io/)
+- Instructor: Dr. [Bahman Moraffah](https://bmoraffa.github.io/)
 - Office: GWC 333
 - Office Hours: TTh 9:30-10:15 am or by appointment 
 - Email: bahman.moraffah@asu.edu
