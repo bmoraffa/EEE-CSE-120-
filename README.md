@@ -6,8 +6,8 @@
 - Office Hours: TTh 9:30-10:15 am or by appointment 
 - Email: bahman.moraffah@asu.edu
 - Course Link: https://github.com/bmoraffa/EEE-CSE-120-Fall2020
-- Syllabus: You can find the detailed syllabus [here](bmoraffa.github.io). For more information about the class policy, please check out the detailed [syllabus](bmoraffa.github.io). 
-- Previous year course: You can find the version of the course I taught in Fall 2019 [here](bmoraffa.github.io).
+- Syllabus: You can find the detailed syllabus [here](https://bmoraffa.github.io/). For more information about the class policy, please check out the detailed [syllabus](https://bmoraffa.github.io/). 
+- Previous year course: You can find the version of the course I taught in Fall 2019 [here](https://bmoraffa.github.io/).
 
 ## Course Staff 
 - Head TA: TBD
