@@ -60,7 +60,7 @@ At the completion of this course, students will be able to:
 | Thu, Sep 10 | Boolean Algebra II, SOP & POS Forms  |  |  2.3, 2.5, 2.7, 2.10  |. 
 | Tue, Sep 15 | Quiz #1  |  |    | HW #2 Due
 | Thu, Sep 17 | The Uniting Theorem, Karnaugh Maps  | |2.6, 2.7, 2.9, 2.10 |
-| Tue, Sep 22 | Karnaugh Maps, Min SOP & Min POS, Don’t Cares  |  | 3.1,3.2, 3.3, 3.5(5VarOnly)|
+| Tue, Sep 22 | Karnaugh Maps, Min SOP & Min POS, Don’t Cares  |  | 3.1,3.2, 3.3, 3.5(up to 5 Var Only)|
 | Thu, Sep 24 | MUX’s, Decoders  |  |5.3, 5.5, 5.6 |
 | Tue, Sep 29 | MUX and DEC as Function Generators, PROMs |  | 5.3, 5.5, 5.6|
 | Thu, Oct 1 | Quiz #2  |  | |
