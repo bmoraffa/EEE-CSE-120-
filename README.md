@@ -54,17 +54,17 @@ At the completion of this course, students will be able to:
 | Thu, Aug 20 | Syllabus, Introduction to EEE 120 & Electrical Fundamentals  | [Lecture note 1](https://canvas.asu.edu)  |  Class Notes  | |
 | Tue, Aug 25 | Logical and Binary Systems, AND-OR, NAND-NOR Logic, Truth Tables, Realizations  |   |  2.1, 2.2, 2.4, 2.8  | |
 | Thu, Aug 27 | Number Systems, Addition |  | 1.1-1.1.1  | |
-| Tue, Sep 1 | Half Adder, Full Adder, Multi-bit Adder  |   |  1.1-1.1.1 |
+| Tue, Sep 1 | Half Adder, Full Adder, Multi-bit Adder  |   |  1.1-1.1.1 | HW#1 Due
 | Thu, Sep 3 | 2’s Complement Representation, 2’s Complement Arithmetic  |  |  1.1.2-1.1.5  |
 | Tue, Sep 8 | Boolean Algebra I |  |  2.3, 2.11, 2.9  |
-| Thu, Sep 10 | Boolean Algebra II, SOP & POS Forms  |  |  2.3, 2.5, 2.7, 2.10  |
-| Tue, Sep 15 | Quiz #1  |  |    |
+| Thu, Sep 10 | Boolean Algebra II, SOP & POS Forms  |  |  2.3, 2.5, 2.7, 2.10  |. 
+| Tue, Sep 15 | Quiz #1  |  |    | HW #2 Due
 | Thu, Sep 17 | The Uniting Theorem, Karnaugh Maps  | |2.6, 2.7, 2.9, 2.10 |
 | Tue, Sep 22 | Karnaugh Maps, Min SOP & Min POS, Don’t Cares  |  | 3.1,3.2, 3.3, 3.5(5VarOnly)|
 | Thu, Sep 24 | MUX’s, Decoders  |  |5.3, 5.5, 5.6 |
 | Tue, Sep 29 | MUX and DEC as Function Generators, PROMs |  | 5.3, 5.5, 5.6|
 | Thu, Oct 1 | Quiz #2  |  | |
-| Tue, Oct 6 | Tri State & Open Collector Buffers  |  | 6.2|
+| Tue, Oct 6 | Tri State & Open Collector Buffers  |  | 6.2| HW #3 Due
 | Thu, Oct 8 | Sequential Logic, Latches |  | 6.1|
 | Tue, Oct 13 | Flip Flops  |  |6.2, Class notes |
 | Thu, Oct 15 | Review for Midterm Exam  |  | Class notes |
@@ -72,13 +72,13 @@ At the completion of this course, students will be able to:
 | Thu, Oct 22 | Synchronization and Registers |  |6.1,6.3,8.1 |
 | Tue, Oct 27 | Synchrounous Counters  |  | 6.1-6.3, 7.1-7.4,|
 | Thu, Oct 29 | Synchronous Machine Design, Moore Machine  |  | 7.1-7.4(Moore MC only)|
-| Tue, Nov 3 | Quiz #3  |  | |
+| Tue, Nov 3 | Quiz #3  |  | | HW#4 Due
 | Thu, Nov 5 | Mealy Machines  |  |7.4 |
 | Tue, Nov 10 | Design Project  |  | Class notes and Project Handout|
 | Thu, Nov 12| Quiz #4  |  | |
 | Tue, Nov 17 | Design Project  |  | Class notes|
 | Thu, Nov 19 | Design Project  |  |Class notes |
-| Tue, Nov 24 | Brainless Microprocessor | | Lab instructions|
+| Tue, Nov 24 | Brainless Microprocessor | | Lab instructions| HW#5 Due
 | Thu, Nov 26 | No Class: Thanksgiving Recess |  | |
 | Tue, Dec 1 | CPU Architecture  and Microprocessor Systems|  | Class notes|
 | Thu, Dec 3 | Review for Final Exam |  | |
