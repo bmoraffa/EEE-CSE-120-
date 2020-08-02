@@ -90,7 +90,7 @@ All quizzes and exams are closed book, closed notes but you will be allowed one 
 |   |  Date | 
 |:----:|:---------:|
 |Midterm | Tuesday, Oct 1, 2020|
-|Final Exam | As determined by ASU| 
+|Final Exam | As scheduled by ASU| 
 
 You can find the exact time and date [here](https://students.asu.edu/final-exam-schedule).
 
