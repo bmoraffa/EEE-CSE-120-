@@ -10,8 +10,8 @@
 - Previous year course: You can find the version of the course I taught in Fall 2019 [here](bmoraffa.github.io).
 
 ## Course Staff 
-- Head TA:
-- Grader: 
+- Head TA: TBD
+- Grader: TBD
 
 ## Communication
 - We use both [canvas](canvas.asu.edu) and [course website](https://github.com/bmoraffa/EEE-CSE-120-Fall2020) for announcement and notes. All students must regularly check these websites for update. 
