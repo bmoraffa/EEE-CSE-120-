@@ -85,6 +85,16 @@ At the completion of this course, students will be able to:
 
 The scribe notes should be written in prose English, as if in a textbook, so that someone who did not attend the class will understand the material. Please do your best, as it is good practice for communicating with others when you write papers in the future.
 
+## Exam
+All quizzes and exams are closed book, closed notes but you will be allowed one hand-written, double-sided cheat sheet. To get full credit, you must attend the exams. No makeup quizzes or exams will be given unless the instructor excuses the absence. 
+|   |  Date | 
+|:----:|:---------:|
+|Midterm | Tuesday, Oct 1, 2020|
+|Final Exam | As determined by ASU| 
+
+You can find the exact time and date [here](https://students.asu.edu/final-exam-schedule).
+
+
 ## Exercises
 Assignments should be submitted in class on due date before the lecture starts. No late assignment will NOT be accepted unless it was permitted by the instructor. 
 |   | Due Date | Solution| 
