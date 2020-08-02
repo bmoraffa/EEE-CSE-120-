@@ -74,13 +74,13 @@ At the completion of this course, students will be able to:
 | Thu, Oct 29 | Synchronous Machine Design, Moore Machine  |  | 7.1-7.4(Moore MC only)|
 | Tue, Nov 3 | Quiz #3  |  | |
 | Thu, Nov 5 | Mealy Machines  |  |7.4 |
-| Tue, Nov 10 | Design Project  |  | |
+| Tue, Nov 10 | Design Project  |  | Class notes and Project Handout|
 | Thu, Nov 12| Quiz #4  |  | |
-| Tue, Nov 17 | Design Project  |  | |
-| Thu, Nov 19 | Design Project  |  | |
-| Tue, Nov 24 | Brainless Microprocessor | | |
+| Tue, Nov 17 | Design Project  |  | Class notes|
+| Thu, Nov 19 | Design Project  |  |Class notes |
+| Tue, Nov 24 | Brainless Microprocessor | | Lab instructions|
 | Thu, Nov 26 | No Class: Thanksgiving Recess |  | |
-| Tue, Dec 1 | CPU Architecture |  | |
+| Tue, Dec 1 | CPU Architecture  and Microprocessor Systems|  | Class notes|
 | Thu, Dec 3 | Review for Final Exam |  | |
 
 The scribe notes should be written in prose English, as if in a textbook, so that someone who did not attend the class will understand the material. Please do your best, as it is good practice for communicating with others when you write papers in the future.
