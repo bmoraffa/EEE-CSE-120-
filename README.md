@@ -89,11 +89,11 @@ The scribe notes should be written in prose English, as if in a textbook, so tha
 Assignments should be submitted in class on due date before the lecture starts. No late assignment will NOT be accepted unless it was permitted by the instructor. 
 |   | Due Date | Solution| 
 |:----:|:---------:|:---------:|
-|[Problem Set 1](https://canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
-|[Problem Set 2](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
-|[Problem Set 3](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
-|[Problem Set 4](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
-|[Problem Set 5](canvas.asu.edu)|     | [Solutions](canvas.asu.edu) |
+|[Problem Set 1](https://canvas.asu.edu)|     | [Solutions](https://canvas.asu.edu) |
+|[Problem Set 2](https://canvas.asu.edu)|     | [Solutions](https://canvas.asu.edu) |
+|[Problem Set 3](https://canvas.asu.edu)|     | [Solutions](https://canvas.asu.edu) |
+|[Problem Set 4](https://canvas.asu.edu)|     | [Solutions](https://canvas.asu.edu) |
+|[Problem Set 5](https://canvas.asu.edu)|     | [Solutions](https://canvas.asu.edu) |
 
 
 ## Laboratory
